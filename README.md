@@ -29,7 +29,7 @@ In this project, we:
 -📄 README.md                # Project documentation
 -->📄 requirements.txt         # List of required Python libraries
 -->📄 stock_lstm_model.py      # Main Python script (LSTM model & prediction logic)
--->📓 stock_prediction.ipynb   # Jupyter notebook version (step-by-step walkthrough)
+-->📓 stock_prediction.ipynb   # Google Colab notebook version (step-by-step walkthrough)
 -->📁 data/                     # Folder to store downloaded stock data (CSV files)│ 
 -->📁 images/                  # Visualizations and result plots
 
