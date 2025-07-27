@@ -26,12 +26,11 @@ In this project, we:
 - yfinance
 
 ## Project Structure
-├── 📄 README.md                # Project documentation
-├── 📄 requirements.txt         # List of required Python libraries
-├── 📄 stock_lstm_model.py      # Main Python script (LSTM model & prediction logic)
-├── 📓 stock_prediction.ipynb   # Jupyter notebook version (step-by-step walkthrough)
-├── 📁 data/                    # Folder to store downloaded stock data (CSV files)
-│   └── AAPL.csv                # Example: Apple stock historical data
-├── 📁 images/                  # Visualizations and result plots
-│   └── lstm_stock_plot.png     # Plot comparing actual vs predicted prices
+📄 README.md                # Project documentation
+📄 requirements.txt         # List of required Python libraries
+📄 stock_lstm_model.py      # Main Python script (LSTM model & prediction logic)
+📓 stock_prediction.ipynb   # Jupyter notebook version (step-by-step walkthrough)
+📁 data/                     # Folder to store downloaded stock data (CSV files)│ 
+📁 images/                  # Visualizations and result plots
+
 
